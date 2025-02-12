@@ -18,7 +18,7 @@ The **Hospital Management Dashboard** is a data visualization tool designed to s
 - **Financial Tracking:** Monitors billing and insurance trends to ensure transparency.
 - **Doctor Performance Evaluation:** Tracks patient feedback to improve healthcare quality.
 - **Disease Trend Analysis:** Identifies common diagnoses to enhance preparedness and response.
-- **Dashboard:** <a href="">Dashboard</a>
+- **Dashboard:** <a href="https://github.com/harsh-118/Hospital-Management-Dashboard-/blob/main/health.pbix">Dashboard</a>
 
 ## How to Use
 1. Select the **Patient ID** or a date range to filter relevant data.
